@@ -1,0 +1,2 @@
+# technical_monopoly
+generating_model_theory _260517
